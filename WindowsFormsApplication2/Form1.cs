@@ -15,6 +15,7 @@ namespace WindowsFormsApplication2
         {
             InitializeComponent();
             //rsdxcfgvbhnjmk
+            //com2
         }
     }
 }
